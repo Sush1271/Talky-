@@ -1,6 +1,6 @@
-# Taalky
+# Talky
 
-**Taalky** is a real-time chat application built with React and Firebase, designed for seamless communication.
+**Talky** is a real-time chat application built with React and Firebase, designed for seamless communication.
 
 ## 🚀 Features
 
@@ -18,10 +18,10 @@
 ## 📦 Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/taalky.git
+   git clone https://github.com/your-username/talky.git
    
 2. Navigate to the project directory:
-   ```cd taalky```
+   ```cd talky```
 
 3. install dependencies:
     ```npm install```
