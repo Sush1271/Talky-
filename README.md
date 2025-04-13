@@ -21,11 +21,11 @@
    git clone https://github.com/your-username/taalky.git
    
 2. Navigate to the project directory:
-   cd taalky
+   ```cd taalky```
 
 3. install dependencies:
-    npm install
+    ```npm install```
 
 4. Start the development server:
-    npm start
+    ```npm start```
 
